@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [nyameamponsahedmund@gmail.com](mailto:nyameamponsahedmund@gmail.com)
-* 🧠  I'm learning Spring boot and Java Swing
+* 🧠  I'm learning Spring boot
 * 🤝  I'm open to collaborating on Desktop and Web Application Development
 
 ### Skills
